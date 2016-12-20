@@ -1,0 +1,30 @@
+body {
+	background: #F4F4CB;
+}
+.cell {
+	width: 30px;
+	height: 30px;
+	background: #69D2E7;
+	text-align: center;
+}
+
+.cell:hover {
+	width: 30px;
+	height: 30px;
+	background: #A7DBD8;
+	text-align: center;
+}
+
+.mine {
+	width: 30px;
+	height: 30px;
+	background: #FA6900;
+	text-align: center;
+}
+
+.void {
+	width: 30px;
+	height: 30px;
+	background: #E0E4CC;
+	text-align: center;
+}
